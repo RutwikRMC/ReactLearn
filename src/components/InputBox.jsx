@@ -25,7 +25,7 @@ function InputBox({
                         </div>
                     </div>
                     <div className="w-50 ms-5">
-                        <label className="mb-2">Currency Type</label>
+                        <label className="mb-2">Currency Typee</label>
                         <div>
                             <select
                                 value={selectCurrency}
